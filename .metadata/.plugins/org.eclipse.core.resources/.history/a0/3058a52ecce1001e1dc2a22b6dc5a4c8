@@ -6,7 +6,7 @@ public class Forlooptable {
 
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Enter numbers : ");
+		System.out.println("Enter number : ");
 		int j = sc.nextInt();
 		
 		
