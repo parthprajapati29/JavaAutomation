@@ -1,0 +1,17 @@
+package coreJava;
+
+public class DataType {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a= 120;
+		int b=30;
+		
+		System.out.println("Addition of a + b:" +(a+b));
+		System.out.println("subtraction of a - b:" +(a-b));
+		System.out.println("division of a / b:" +(a/b));
+		System.out.println("mod of a % b:" +(a%b));
+		System.out.println("Multi of a * b:" +(a*b));
+	}
+
+}
