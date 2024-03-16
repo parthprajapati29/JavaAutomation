@@ -36,5 +36,4 @@ public class SwitchCaseDemo {
 			System.out.println("Invalid");
 		}
 	}
-
 }
